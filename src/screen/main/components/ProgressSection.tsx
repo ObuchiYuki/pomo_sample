@@ -62,7 +62,7 @@ export const ProgressSection = () => {
           strokeWidth={5}  
         />;
 
-        {/* <_ProgressImage src={"./avators/pomo/focus.png"}/> */}
+        <_ProgressImage src={"./avators/pomo/focus.png"}/>
 
       </_ProgressIndicator>
     </_Section>
