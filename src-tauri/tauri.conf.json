@@ -12,9 +12,15 @@
   "app": {
     "windows": [
       {
-        "title": "pomo_sample",
-        "width": 800,
-        "height": 600
+        "title": "",
+        "maximizable": false,
+        "hiddenTitle": true,
+        "width": 350,
+        "height": 500,
+        "minWidth": 220,
+        "minHeight": 400,
+        "maxWidth": 420,
+        "maxHeight": 600
       }
     ],
     "security": {
